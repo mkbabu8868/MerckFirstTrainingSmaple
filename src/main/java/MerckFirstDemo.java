@@ -9,7 +9,6 @@ import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.servlet.ServletContextHandler;
 
 public class MerckFirstDemo extends HttpServlet {
-
 	private static final long serialVersionUID = 1L;
 
 	public static void main(String[] args) throws Exception{
